@@ -1,7 +1,7 @@
 fun main() {
-    println("Enter Number 1 : ")
+    print("Enter Number 1 : ")
     val num1 = readLine()!!.toDouble()
-    println("Enter Number 2 : ")
+    print("Enter Number 2 : ")
     val num2 = readLine()!!.toDouble()
 
 

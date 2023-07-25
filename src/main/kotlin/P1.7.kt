@@ -1,5 +1,5 @@
 fun main() {
-    println("Enter Number : ")
+    print("Enter Number : ")
     var num = readLine()!!.toInt()
     var result : Int
     result = fact(num)
