@@ -1,6 +1,6 @@
 fun main() {
     var array = ArrayList<Int>()
-    print("Please enter Array values : ")
+    println("Please enter Array values : ")
     for (i in 0 until 5) {
         print("array[$i] : ")
         var input = readLine()!!.toInt()
