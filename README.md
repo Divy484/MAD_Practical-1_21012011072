@@ -1,6 +1,11 @@
 # Practical-1_21012011072
 1.Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 
+-> Output :-
+
+![image](https://github.com/Divy484/MAD_Practical-1_21012011072/assets/98522523/2230be0e-6969-44dc-91b3-353c61609397)
+
+
 2.Type conversion:Integer to Double, String to Integer, String to Double.
 
 3.Scan student’s information and display all the data.
